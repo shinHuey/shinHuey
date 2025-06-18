@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi there, I’m Shin Huey Lim
 
-<!--
-**shinHuey/shinHuey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Big Data & Data Science Technology (Northumbria University London)  
+💻 AI Software Engineer @ Apaceocre (Zhubei, Taiwan)  
+🧠 Passionate about Brain–Computer Interfaces (BCI), EEG Signal Processing, and Graph Neural Networks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 My Interests
+- Brain–Computer Interface (SSVEP-based real-time systems)
+- EEG signal analysis and preprocessing
+- Machine Learning
+
+---
+
+### 🛠️ Technologies & Tools
+- **Languages:** Python, Kotlin, R, MATLAB, PHP, CSS, Haskell
+- **Libraries:** PyTorch Geometric, Scikit-learn, OpenBCI, NumPy, Pandas
+- **Tools:** WEKA, SPSS, MySQL, Git, Android Studio
+- **AI Tools:** ChatGPT, Claude, GitHub Copilot
+
+---
+
+### 📌 Featured Projects
+- 🧬 **Skin Cancer Detection via Graph ML**  
+  Compared GCN, GAT, MoNet, GIN, GraphSAGE on HAM10000 dataset  
+  → Achieved 95.2% accuracy with MoNet  
+  *(See my thesis for details)*
+
+- 📱 **Mobile BCI App Integration**  
+  Integrated real-time SSVEP classification into Android UI using Kotlin and custom backend  
+  → Improved detection latency and signal robustness
+
+---
+
+### 📫 Contact Me
+- 📍 Based in Taiwan 🇹🇼 | Soon moving to Manchester 🇬🇧
+- 💼 [LinkedIn](https://www.linkedin.com/in/shinhuey-lim-datascientist/)
+- 📧 Email: [tzulianghsu0420@gmail.com](mailto:tzulianghsu0420@gmail.com)
+
+---
+
+> “Turning raw signals into smart interfaces — one EEG at a time.”
+
