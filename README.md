@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Contact Me
-- 📍 Based in Taiwan 🇹🇼 | Soon moving to Manchester 🇬🇧
+- 📍 Based in Taiwan 🇹🇼
 - 💼 [LinkedIn](https://www.linkedin.com/in/shinhuey-lim-datascientist/)
 - 📧 Email: [dog112600@gmail.com](mailto:dog112600@gmail.com)
 
