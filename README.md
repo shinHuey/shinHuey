@@ -16,7 +16,7 @@
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, Kotlin, R, MATLAB, PHP, CSS, Haskell
 - **Libraries:** PyTorch Geometric, Scikit-learn, OpenBCI, NumPy, Pandas
-- **Tools:** WEKA, SPSS, MySQL, Git, Android Studio
+- **Tools:** WEKA, SPSS, MySQL
 - **AI Tools:** ChatGPT, Claude, GitHub Copilot
 
 ---
