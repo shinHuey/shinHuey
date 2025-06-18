@@ -39,5 +39,5 @@
 
 ---
 
-> “Turning raw signals into smart interfaces — one EEG at a time.”
+> “Have a good day ;-)”
 
