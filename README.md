@@ -27,10 +27,6 @@
   → Achieved 95.2% accuracy with MoNet  
   *(See my thesis for details)*
 
-- 📱 **Mobile BCI App Integration**  
-  Integrated real-time SSVEP classification into Android UI using Kotlin and custom backend  
-  → Improved detection latency and signal robustness
-
 ---
 
 ### 📫 Contact Me
