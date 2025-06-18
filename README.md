@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Shin Huey Lim
+## 👋 Hi there, I’m Shin Huey
 
 🎓 MSc in Big Data & Data Science Technology (Northumbria University London)  
 💻 AI Software Engineer @ Apaceocre (Zhubei, Taiwan)  
